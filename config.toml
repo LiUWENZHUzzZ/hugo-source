@@ -60,13 +60,13 @@ preserveTaxonomyNames = true
     GitHub = "LiUWENZHUzzZ"
     Twitter = "LiUWENZHUzzZ"
     Email   = "liuwenzhuzzz@gmail.com"
-    #Instagram = "xxoo"
-    #Wechat = "/images/me/wechat.png"  # Wechat QRcode image
-    #Facebook = "xxoo"
-    #Telegram = "xxoo"
-    #Dribbble = "xxoo"
-    #Medium = "xxoo"
-	weibo = "https://weibo.com/u/7245988988"
+    #Wechat = "/images/me/wechat.jpg"  # Wechat QRcode image
+	Weibo = "https://weibo.com/u/7245988988"
+    Cloudmusic = "http://music.163.com/m/user/home?id=291859070"
+    Coolapk = "http://www.coolapk.com/u/2806249"
+    Bilibili = "https://space.bilibili.com/253204549?share_medium=android&share_source=copy_link&bbid=XY00CC30A9753C75808FACACA40CCCA888BDE&ts=1564752862468"
+    #Alipay = "/images/me/alipay.jpg"
+    #Jianshu = "https://www.jianshu.com/u/2f589e9a878b"
 
 [params.gitalk] # Github: https://github.com/gitalk/gitalk
     clientID = "" # Your client ID
